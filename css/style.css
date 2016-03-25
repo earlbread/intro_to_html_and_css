@@ -1,0 +1,30 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	color: #747704;
+}
+
+a {
+	color: inherit;
+}
+
+hr {
+	border: 0px;
+	background-color: #bcbbbb;
+	height: 3px;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-muted {
+	color: #bcbbbb;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
