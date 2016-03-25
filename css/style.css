@@ -7,6 +7,12 @@ a {
 	color: inherit;
 }
 
+hr {
+	border: 0px;
+	background-color: #bcbbbb;
+	height: 3px;
+}
+
 .text-thin {
 	font-weight: 100;
 }
